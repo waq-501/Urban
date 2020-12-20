@@ -1,0 +1,314 @@
+header{
+	background-image: url(../banner.jpg);
+	height: 600px;
+	background-position: center;
+	background-size: cover;
+	background-color : rgb(0,0,0,.7);
+	background-blend-mode: overlay;
+}
+
+.logo1{
+	color: white;
+}
+
+.logo a{
+	text-decoration: none;
+	position: relative;
+	top: 30px;
+	left: 30px;
+	color: skyblue;
+	
+	}
+	*{
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+	}
+.main a{
+	
+	text-decoration: none;
+	border: 1px solid;
+	border-radius: 5px;
+	font-size: 25px;
+	padding: 12px;
+	background-color:  #3498DB;
+	color: white;
+	position: relative;
+	top: 250px;
+	border: none;
+
+
+
+}
+.main{
+	text-align: center;
+	color: white;
+
+
+
+}
+
+
+
+.main h1{
+	font-size: 70px;
+	position: relative;
+	top: 150px;
+	
+
+}
+.main p{
+	font-size: 30px;
+	position: relative;
+	top: 190px;
+}
+
+.pic01 img{
+	border:1px solid #999999;
+	border-radius: 50%;
+	padding: 6px;
+}
+.pic01{
+	width: 25%;
+	float: left;
+	box-sizing: border-box;
+	padding-top: 80px;
+	padding-left: 80px;
+	
+	}
+.para1{
+	width: 75%;
+	float: left;
+box-sizing: border-box;
+padding-top: 80px;
+padding-left: 120px;
+padding-right: 100px;
+
+
+}
+.para1 a{
+	text-decoration: none;
+	border:1px solid;
+	font-size: 20px;
+	padding: 7px;
+	color: white;
+	background-color: #3498DB;
+	border-radius: 5px;
+}
+.para1 p{
+	margin-top: 30px;
+	line-height: 1.5;
+	text-align: justify;
+	font-family: sans-serif;
+	color: #999999;
+}
+.para1 a{
+	position: relative;
+	top:35px;
+
+}
+.section-1{
+	overflow: auto;
+	
+
+}
+.section-2{
+	background-color: #3492DB;
+	margin-top:90px;
+
+
+	
+}
+.para2 a{
+	text-decoration: none;
+	border:1px solid;
+	font-size: 20px;
+	padding: 7px;
+	color: #3498DB;
+	background-color: white;
+	border-radius: 5px;
+}
+.pic02 img{
+	border:1px solid #999999;
+	border-radius: 50%;
+	padding: 6px;
+}
+.para2{
+	width: 75%;
+	float: left;
+box-sizing: border-box;}
+.pic01{
+	width: 25%;
+	float: left;
+		box-sizing: border-box;}
+		.para2{
+			padding-top: 80px;
+			padding-right: 100px;
+			padding-left: 80px;
+		}
+		.pic02{
+			padding-top: 80px;
+			padding-left: 40px;
+			position: relative;
+			right: 60px;
+	
+		}
+		
+		.para2 p{
+	margin-top: 30px;
+	line-height: 1.5;
+	text-align: justify;
+	font-family: sans-serif;
+	color: white;
+}
+.para2 a{
+	position: relative;
+	top:35px;
+
+}
+.para2 h1{
+	color: white;
+}
+.heading{
+	text-align: center;
+	line-height: 2.5;
+	position: relative;
+	margin-top: 50px;
+}
+.heading h1{
+	font-weight: 300;
+	font-family: serif;
+	font-size: 40px;
+}
+.heading p{
+	font-size: 1.25em;
+	color: #999999;
+}
+.one img{
+border:1px solid #999999;
+	border-radius: 50%;
+	padding: 6px;	
+}
+.two img{
+border:1px solid #999999;
+	border-radius: 50%;
+	padding: 6px;	
+}
+.three img{
+border:1px solid #999999;
+	border-radius: 50%;
+	padding: 6px;	
+}
+.one{
+	width:33.33%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 80px;
+	padding-top: 70px;
+	
+}
+.two{
+	width:33.33%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 80px;
+	padding-top: 70px;
+	
+}
+.three{
+	width:33.33%;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 80px;
+	padding-top: 70px;
+
+}
+.one p{
+	font-size: 1em;
+	color: #999999;
+	text-align: center;
+	margin-top: 13px;
+}
+.two p{
+	font-size: 1em;
+	color: #999999;
+	text-align: center;
+	margin-top: 13px;
+}
+.three p{
+	font-size: 1em;
+	color: #999999;
+	text-align: center;
+	margin-top: 13px;
+}
+.one a{
+	text-decoration: none;
+	border:1px solid;
+	font-size: 20px;
+	padding: 7px;
+	color: white;
+	background-color: #3498DB;
+	border-radius: 5px;
+	position: relative;
+	top:50px;
+	left: 120px;
+
+}
+.two a{
+	text-decoration: none;
+	border:1px solid;
+	font-size: 20px;
+	padding: 7px;
+	color: white;
+	background-color: #3498DB;
+	border-radius: 5px;
+	position: relative;
+	top:50px;
+	left: 120px;
+
+
+}
+.three a{
+	text-decoration: none;
+	border:1px solid;
+	font-size: 20px;
+	padding: 7px;
+	color: white;
+	background-color: #3498DB;
+	border-radius: 5px;
+	position: relative;
+	top:50px;
+	left: 120px;
+}
+
+
+.twitter img{
+	position: relative;
+	top:200px;
+	left: 580px;
+	float: left;
+
+}
+.facebook img{
+	position: relative;
+	top:210px;
+	left: 580px;
+	float: left;
+}
+.instagram img{
+	position: relative;
+	top:210px;
+	left: 590px;
+	float: left;
+}
+.snap img{
+	position: relative;
+	top:210px;
+	left: 600px;
+	float: left;
+}
+
+
+	
+
+
